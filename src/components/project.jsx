@@ -40,7 +40,7 @@ function Project() {
             <div className="layer">
               <div id="wrapper-decs" className="center-content">
                 <h3>Modern Minimalis Interior</h3>
-                <p>The Tropical Modern Minimalis design is intended to provide freelance users. The combination of vinyl flooring and marble walls provides the apartment space a sumptuous and beautiful appearance. INTERIOR (In Collaboration w/ Marcello Rios)</p>
+                <p>The Tropical Modern Minimalis design is intended to provide freelance users. The combination of vinyl flooring and marble walls provides the apartment space a sumptuous and beautiful appearance.</p>
                 <a href="/modernminimalis" id="btn-project" className="center-content">
                   <FontAwesomeIcon icon={faArrowUpRightFromSquare} size="sm" />
                 </a>

@@ -102,21 +102,22 @@ function About() {
                 <li>
                   <span>PT Artha Karya Internusa</span>
                   <br />
-                  - Continue with detailed drawing form consultant, such as foundation detail, pile cap details,
-beam details, and column details.
-</br>
-- Help supervise work in the field such as supervising the construction of the first foundation in
-the field.
+                  Continue with detailed drawing form consultant, such as foundation detail, pile cap details, beam details, and column details.
                 </li>
+                <li>
+                  Help supervise work in the field such as supervising the construction of the first foundation in the field.
+                </li>
+                <br />
                 <li>
                   <span>PT Pandega Desain Weharima</span>
                   <br />
-                  - Take into consideration the entrance area, vehicle paths, contours, and water circulation that
-will be planned by the architectural team when dividing the arrangement on each master plan
-for Villa Tanamori.
-<br/>
-                  - Introducing the idea of crop rotation on land intended for plantations and cattle, but producing
-crops more quickly than is customary.
+                  Take into consideration the entrance area, vehicle paths, contours, and water circulation that
+                  will be planned by the architectural team when dividing the arrangement on each master plan
+                  for Villa Tanamori.
+                </li>
+                <li>
+                  Introducing the idea of crop rotation on land intended for plantations and cattle, but producing
+                  crops more quickly than is customary.
                 </li>
                 {/* Add other experiences here */}
               </ul>
@@ -126,7 +127,9 @@ crops more quickly than is customary.
                 <li>
                   <span>Universitas Agung Podomoro Jakarta</span>
                   <br />
-                  Designing Web app Interfaces
+                  Coursework: Architecture Design Studio, Building Technology and Utility, Green Building,
+                  Site Planning, Building Physic, Digital Architecture, Theory of Urban Planning and Design,
+                  Property Development Business Plan, Fengsui.
                 </li>
                 {/* Add other education details here */}
               </ul>
