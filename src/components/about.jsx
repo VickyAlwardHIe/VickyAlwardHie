@@ -102,12 +102,21 @@ function About() {
                 <li>
                   <span>PT Artha Karya Internusa</span>
                   <br />
-                  Designing Web app Interfaces
+                  - Continue with detailed drawing form consultant, such as foundation detail, pile cap details,
+beam details, and column details.
+</br>
+- Help supervise work in the field such as supervising the construction of the first foundation in
+the field.
                 </li>
                 <li>
                   <span>PT Pandega Desain Weharima</span>
                   <br />
-                  Designing Web app Interfaces
+                  - Take into consideration the entrance area, vehicle paths, contours, and water circulation that
+will be planned by the architectural team when dividing the arrangement on each master plan
+for Villa Tanamori.
+<br/>
+                  - Introducing the idea of crop rotation on land intended for plantations and cattle, but producing
+crops more quickly than is customary.
                 </li>
                 {/* Add other experiences here */}
               </ul>
