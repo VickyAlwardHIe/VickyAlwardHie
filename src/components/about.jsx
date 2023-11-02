@@ -125,11 +125,9 @@ function About() {
             <div className={`tab-contents ${activeTab === "education" ? "active-tab" : ""}`} id="education">
               <ul>
                 <li>
-                  <span>Universitas Agung Podomoro Jakarta</span>
+                  <span>Agung Podomoro University</span>
                   <br />
-                  Coursework: Architecture Design Studio, Building Technology and Utility, Green Building,
-                  Site Planning, Building Physic, Digital Architecture, Theory of Urban Planning and Design,
-                  Property Development Business Plan, Fengsui.
+                  Architecture, 2023
                 </li>
                 {/* Add other education details here */}
               </ul>
