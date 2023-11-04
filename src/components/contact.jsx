@@ -16,7 +16,7 @@ function Contact() {
             <h1 className="sub-title">Contact Me</h1>
             <p>
               <FontAwesomeIcon icon={faEnvelope} size="xl" style={{ paddingRight: "10px" }} />
-              vcky415x@gmail.com
+              vicky415x@gmail.com
             </p>
             <p>
               <FontAwesomeIcon icon={faPhone} size="xl" style={{ paddingRight: "10px" }} />
